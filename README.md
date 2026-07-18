@@ -1,0 +1,1 @@
+# testesp8266-d1mini-krasnodar
